@@ -63,7 +63,7 @@ Die kritische Haltung dieser Arbeit richtet sich **nicht gegen Konsumierende**, 
 ---
 
 ## Lizenz
-© 2025 [Nils van Triel].  
+© 2025 Nils van Triel.  
 Veröffentlichung unter der **Creative Commons Lizenz CC BY-NC-SA 4.0**.  
 Weitergabe und Bearbeitung erlaubt, sofern:  
 - Namensnennung erfolgt,  
@@ -74,4 +74,5 @@ Weitergabe und Bearbeitung erlaubt, sofern:
 
 ## Kontakt
 Bei Fragen oder zur weiterführenden Nutzung:  
-[Kontaktmöglichkeit einfügen]
+Discord: @multiorganversagen
+Instagram: nils.vtrl
