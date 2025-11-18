@@ -8,7 +8,7 @@ Sie basiert ausschließlich auf belastbaren Quellen wie der Weltgesundheitsorgan
 Die Arbeit zeigt klar: Alkohol ist kein harmloses Genussmittel, sondern einer der bedeutendsten vermeidbaren Risikofaktoren für Krankheit, soziale Schäden und vorzeitige Mortalität.
 
 📄 **PDF-Version der Facharbeit:**  
-`Facharbeit_Alkoholrisiken.pdf`
+[Alkoholkonsum und Alkoholabhängigkeit.pdf](./Alkoholkonsum%20und%20Alkoholabhängigkeit.pdf)
 
 ---
 
