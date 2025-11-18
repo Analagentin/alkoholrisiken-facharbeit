@@ -63,7 +63,7 @@ Die kritische Haltung dieser Arbeit richtet sich **nicht gegen Konsumierende**, 
 ---
 
 ## Lizenz
-© 2025 [Dein Name].  
+© 2025 [Nils van Triel].  
 Veröffentlichung unter der **Creative Commons Lizenz CC BY-NC-SA 4.0**.  
 Weitergabe und Bearbeitung erlaubt, sofern:  
 - Namensnennung erfolgt,  
